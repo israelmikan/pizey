@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.clicktheglobe.pizzame.MainActivity" >
+
+    <item
+        android:id="@+id/search"
+        android:orderInCategory="100"
+        android:title="Search"
+        app:showAsAction="always"
+       android:icon="@drawable/search" />
+
+    <item
+        android:id="@+id/developer"
+        android:orderInCategory="100"
+        android:title="Search"
+        app:showAsAction="always"
+        android:icon="@drawable/search" />
+    <item
+        android:id="@+id/boda"
+        android:orderInCategory="100"
+        android:title="Search"
+        app:showAsAction="always"
+        android:icon="@drawable/search" />
+
+</menu>
